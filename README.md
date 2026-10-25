@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#ff3f9f">
+<title>عيد ميلاد حياه - حوحو ❤️</title>
+<style>
+:root{--pink:#ff4fa3;--hot:#ff238e;--dark:#21091c;--glass:#3b102f}*{box-sizing:border-box}body{margin:0;min-height:100vh;color:#fff0f8;font-family:system-ui,-apple-system,"Segoe UI",sans-serif;background:radial-gradient(circle at 20% 10%,#7a174f 0,transparent 32%),radial-gradient(circle at 90% 45%,#671544 0,transparent 35%),linear-gradient(150deg,#120713,#310b28 55%,#170817);overflow-x:hidden} .wrap{width:min(760px,100%);margin:auto;padding:24px 16px 40px;position:relative}.top{text-align:center;padding:25px 8px 12px}.eyebrow{letter-spacing:2px;color:#ffb8da;font-size:.9rem}.heart{font-size:3.5rem;filter:drop-shadow(0 0 18px #ff3f9f);animation:pulse 1.6s infinite}.top h1{font-size:clamp(2rem,8vw,3.3rem);margin:8px 0;color:#fff;text-shadow:0 0 20px #ff238e}.top p{color:#ffd1e7;font-size:1.08rem;line-height:1.9}.card{background:#260b20d9;border:1px solid #ff65b2;border-radius:25px;padding:24px 20px;margin:18px 0;box-shadow:0 0 28px #ff238e20;backdrop-filter:blur(5px)}.cake{font-size:5.4rem;text-align:center;margin:0;filter:drop-shadow(0 0 18px #ff4fa3)}.cake-caption{text-align:center;color:#ffc6e2;margin-top:0}.btn{display:block;width:100%;border:0;border-radius:999px;padding:15px 18px;margin:12px 0;background:linear-gradient(100deg,#ff238e,#ff75b8);color:white;font-size:1.04rem;font-weight:800;box-shadow:0 8px 24px #ff238e35;cursor:pointer}.btn.secondary{background:#42112f;border:1px solid #ff65b2;box-shadow:none}.message{display:none;line-height:2.15;font-size:1.04rem;color:#ffe7f3;white-space:pre-line}.message.show{display:block;animation:fade .8s ease}.card h2{text-align:center;color:#ff9ccc;margin-top:0}.hint{text-align:center;color:#ffb8da;font-size:.9rem}.float{position:fixed;bottom:-40px;pointer-events:none;z-index:0;animation:rise linear forwards;opacity:.75}.wrap>*{position:relative;z-index:1}.footer{text-align:center;color:#ffadd5;font-size:.9rem;padding:16px}.small{font-size:.83rem;color:#ffc9e2;text-align:center}.spark{font-size:1.3rem;margin:0 5px}@keyframes pulse{50%{transform:scale(1.12)}}@keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}@keyframes rise{to{transform:translateY(-115vh) rotate(25deg);opacity:0}}
+</style></head>
+<body><main class="wrap">
+<header class="top"><div class="eyebrow">مفاجأة صغيرة من شخص بيحبك ❤️</div><div class="heart">💗</div><h1>كل سنة وإنتِ طيبة يا حياه 🎂</h1><p>يا حوحو، النهارده يوم مميز عشان اتولدت فيه أجمل إنسانة ❤️<br>حتى لو المسافة بينا كبيرة، إنتِ قريبة من قلبي دايمًا.</p></header>
+<section class="card"><p class="cake">🎂</p><p class="cake-caption">أمنياتي ليكي سنة مليانة فرحة وضحك ونجاح 🌷</p><button class="btn" id="open">افتحي رسالتك الخاصة 💌</button><div class="message" id="message"><h2>من قلبي ليكي ❤️</h2>
+كل سنة وإنتِ طيبة يا حياه، يا حوحو بتاعتي وأجمل هدية جت في حياتي ❤️ ويا رب السنة الجديدة من عمرك تكون مليانة فرحة وراحة بال ونجاح، وتحققي فيها كل حاجة نفسك فيها.
+
+يمكن مش جنبك النهارده عشان كل واحد فينا في محافظة، بس حبيت أوصلك إحساسي ولو بكلمتين. المسافة ممكن تبعد الأماكن، لكنها مش بتمنع حد إنه يفتكر شخص غالي عليه ويتمنى يشوفه مبسوط.
+
+أتمنى تفضلي دايمًا بتضحكي الضحكة اللي بتحلي يومك، وتلاقي حواليكي ناس بتحبك بصدق، وكل يوم جديد يجيبلك سبب حلو تفرحي عشانه. ولو يومك كان طويل أو متعب، افتكري إن فيه حد بيتمنالك الخير والسعادة من قلبه.
+
+النهارده يومك، فاستمتعي بيه على قد ما تقدري، واحتفلي بنفسك وبكل حاجة حلوة فيكي. يا رب كل أمنياتك تقرب، وكل سنة تبقي أقوى وأسعد، وتفضلي دايمًا منورة حياة اللي حواليكي.
+
+عيد ميلاد سعيد يا حياه يا حوحو ❤️🎂 ومهما كانت المسافة، أتمنى توصلك مني أحلى دعوة وأصدق أمنية: إن قلبك يفضل مبسوط، وأيامك تبقى جميلة زي ما بتتمني.
+
+بحب أشاركك فرحتك حتى لو من بعيد، وكل سنة وإنتِ بخير يا أجمل حكاية في حياتي. يا رب أفضل سبب صغير من أسباب ضحكتك، وتفضلي دايمًا مبسوطة ومطمنة. بحبك يا حوحو 💗</div></section>
+<section class="card"><h2>اختاري مفاجأة كمان يا حوحو 🎁</h2>
+<button class="btn secondary" id="song">🎵 اسمعي أغنيتنا</button><p class="small">اضغطي واكتبي رابط أغنيتكوا المفضلة.</p>
+<button class="btn secondary" id="surprise">🎁 مفاجأة خاصة ليكي</button><p id="surpriseout" class="hint" aria-live="polite"></p>
+<button class="btn secondary" id="photos">📸 ذكرياتنا</button><p id="photosout" class="hint" aria-live="polite">لو عندكوا صور، اختار صور من موبايلك عشان تشوفها هنا.</p><input id="photoPicker" type="file" accept="image/*" multiple hidden><div id="gallery" style="display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px"></div>
+<button class="btn secondary" id="lastmsg">❤️ رسالة أخيرة</button><p id="lastout" class="hint" aria-live="polite"></p>
+<button class="btn" id="confetti">املئي الشاشة قلوب 💕</button><p class="small">الموقع معمول مخصوص ليكي يا حوحو ❤️</p></section>
+<footer class="footer">اتعملت مخصوص عشان يومك يبقى أحلى <span class="spark">♥</span></footer></main>
+<script>
+const openBtn=document.getElementById('open'), msg=document.getElementById('message');openBtn.addEventListener('click',()=>{msg.classList.toggle('show');openBtn.textContent=msg.classList.contains('show')?'اقفلي الرسالة 💗':'افتحي رسالتك الخاصة 💌';if(msg.classList.contains('show'))msg.scrollIntoView({behavior:'smooth',block:'nearest'});});
+const wishes=['يا رب كل اللي بتتمنيه ييجي في وقته وأحلى مما تخيلتي 💖','أتمنى سنتك الجديدة تكون مليانة ضحك وذكريات حلوة 🌷','يا رب تفضلي دايمًا مطمنة وفرحانة وفخورة بنفسك ✨','أتمنى كل يوم جاي يكون ألطف وأجمل من اللي قبله 💕'];
+document.getElementById('surprise').addEventListener('click',()=>{document.getElementById('surpriseout').textContent='مفاجأتي ليكي يا حوحو: أتمنى أكون جنبك وأشوف ضحكتك، ولحد ما نتقابل، اعتبري القلوب دي حضوري معاكي 💗 '+wishes[Math.floor(Math.random()*wishes.length)];floatHearts(22)});
+document.getElementById('song').addEventListener('click',()=>{const u=prompt('حطي رابط الأغنية اللي تحبي تسمعيها يا حوحو 🎵');if(u){if(/^https?:\/\//i.test(u)){window.open(u,'_blank','noopener');}else{alert('من فضلك اكتبي رابط يبدأ بـ https://');}}});
+document.getElementById('photos').addEventListener('click',()=>document.getElementById('photoPicker').click());
+document.getElementById('photoPicker').addEventListener('change',e=>{const g=document.getElementById('gallery');g.innerHTML='';Array.from(e.target.files||[]).slice(0,8).forEach(f=>{const img=document.createElement('img');img.src=URL.createObjectURL(f);img.alt='ذكرى جميلة';img.style.cssText='width:100%;border-radius:12px;border:1px solid #ff65b2';g.appendChild(img)});document.getElementById('photosout').textContent=g.children.length?'ذكريات حلوة يا حوحو 💗 الصور دي بتظهر على جهازك بس.':'اختاري صور من موبايلك.';});
+document.getElementById('lastmsg').addEventListener('click',()=>{document.getElementById('lastout').textContent='يا حياه، يا حوحو ❤️ كل سنة وإنتِ أجمل صدفة وأحلى حكاية. حتى لو بينا محافظات، إنتِ ليكي مكانة كبيرة في قلبي، وبتمنالك سنة كلها فرحة ونجاح وراحة بال. عيد ميلاد سعيد يا حبيبتي 🎂💗';floatHearts(30)});
+function floatHearts(n=18){for(let i=0;i<n;i++){const e=document.createElement('span');e.className='float';e.textContent=['💗','💕','💖','❤️','🌸'][Math.floor(Math.random()*5)];e.style.left=Math.random()*100+'vw';e.style.animationDuration=(4+Math.random()*5)+'s';e.style.fontSize=(18+Math.random()*22)+'px';document.body.appendChild(e);setTimeout(()=>e.remove(),9500)}}document.getElementById('confetti').addEventListener('click',()=>floatHearts(35));setInterval(()=>{if(Math.random()>.5)floatHearts(1)},2600);
+</script></body></html>
